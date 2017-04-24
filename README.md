@@ -2,7 +2,8 @@
 Testing LINE Notify API  
 
 ### Blogs Japan  
-* origin: gisfile1.txt  https://github.com/sarodp/myLINE-Notify/blob/master/gistfile1.txt  
+* origin: gisfile1.txt  
+  https://github.com/sarodp/myLINE-Notify/blob/master/gistfile1.txt  
 * http://blog.futurestandard.jp/entry/2017/02/04/131343  
 * http://tech.innovation.co.jp/2016/10/14/Try-Line-Notify.html  
   
@@ -11,8 +12,9 @@ Testing LINE Notify API
   
 ### LINE Notify API document  
 * https://notify-bot.line.me/doc/en/     
-
   
+---  
+
 ### you must generate token_key here first.  
 * https://notify-bot.line.me/my/   
   
